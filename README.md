@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ## My languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonkyputra)](https://github.com/yonkyputra/yonkyputra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonkyputra&layout=compact)](https://github.com/yonkyputra/ios-bbpjn)
