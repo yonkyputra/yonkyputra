@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![yonkyputra's github stats](https://github-readme-stats.vercel.app/api?username=yonkyputra&show_icons=true&theme=dracula&count_private=true)
+
+## My languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonkyputra)](https://github.com/yonkyputra/yonkyputra)
